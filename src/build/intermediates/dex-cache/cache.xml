@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-51d0a716a98e7c9d754aa6584a751b3937cfc222.jar" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-97f4adda8d67d94a1e765a81b260c5e5a5d548a7.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-b2954e19ce40907a929cc194469abe70a0c8a5c4.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-207c3b8dde5fbd802cfa8630a373d05ce3f712a7.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-c0a981ea618626c6abd9a7d4ee1e0da4088439a5.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-2eb9dc736b06edd996388584e74603268e2c2a61.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-871818f96576018b139c6a0f1ebfaa49d8b3c208.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-0500f9a066752e3251bc801c2dd435db7a904353.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-29e265553838ff07119481bfb04c440f3eaf4002.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-b4be0e2bf9a313e8b3cc5517fe8c9b993cee9851.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-ecb18d4ba020e587050aa692dd531d6ce720245f.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-70d281a1a9a5c569afe6930778d7503112d15738.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-4a8464c0728896f016f7a8a0127fdde6f43b5f58.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-273f85af669b3a8d92dac147c7b9a4d4e7bed1f7.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-c0dd051d81437c7be28796ff89223e0429d1ed24.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-f5bc7d7b335cb5fa550a3428f1ab2c185b33a862.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-2faa3e4959c2214ba602bddee30b6111a41e7a6c.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-4dd3a5736f2123faf9dd6ee98c219cab82739c74.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-8250c314dab6fc01d433682217fd24eab1a970df.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-ffff3032d1891eca81a167d4a83c00c141565a55.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-3cb00c72425ef60d960e24c7acb7a3e1ed3c1b33.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-9718d3bbcc83949bdc886e8b7f98d073ed8a23d2.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-30bac54fc4b0ea11c13d04e3ce39105b85a6bb37.jar" />
+    </item>
+    <item
+        jar="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/HiepLT/Workspace/Udacity/Nano_Degree/Android/Project_4_Build_It_Bigger/src/app/build/intermediates/pre-dexed/debug/classes-8d7e93bf6a0c3c36b31528f7f78b375d2e5dfcff.jar" />
+    </item>
+
+</items>
