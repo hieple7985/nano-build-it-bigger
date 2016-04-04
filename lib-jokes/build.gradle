@@ -30,11 +30,11 @@ sourceCompatibility = 1.7
 
 We can now create our joke telling library. We'll create a file at
 
-    javaJokes/src/main/java/com/udacity/gradle/jokes/Joker.java
+    javaJokes/src/main/java/com/hieple/jokes/Joker.java
 
 With contents:
 
-    package com.udacity.gradle.jokes;
+    package com.hieple.jokes;
 
     public class Joker {
         public String getJoke(){
@@ -45,13 +45,13 @@ With contents:
 Now if we want to, we can navigate to the javaJokes directory and run Gradle
 tasks like usual. If we also add
 
-    javaJokes/src/main/java/com/udacity/gradle/jokes/Joker.java
+    javaJokes/src/main/java/com/hieple/jokes/Joker.java
 
 With contents:
 
-    package com.udacity.gradle.jokes.test;
+    package com.hieple.jokes.test;
 
-    import com.udacity.gradle.jokes.Joker;
+    import com.hieple.jokes.Joker;
     import org.junit.Test;
 
     public class JokerTest {

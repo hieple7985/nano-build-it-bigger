@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.ProgressBar;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         getSupportFragmentManager().beginTransaction().
-                add(R.id.fragment,new MainActivityFragment()).commit();
+                add(R.id.fragment,new MainFragment()).commit();
     }
 
     @Override
@@ -34,6 +35,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void tellJoke(View view){
-        new JokeAsyncTask(this).execute();
+        ProgressBar progressBar = (ProgressBar) findViewById(R.id.progressbar);
+        JokeAsyncTask task = new JokeAsyncTask(progressBar, this);
+        task.execute();
     }
 }

@@ -6,8 +6,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import com.udacity.gradle.imageactivity.R;
-
 public class JokesDisplayActivity extends AppCompatActivity {
 
     public final static String JOKE_INTENT = "JOKE_INTENT";
