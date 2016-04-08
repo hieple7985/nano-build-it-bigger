@@ -1,7 +1,10 @@
 package com.udacity.gradle.builditbigger;
 
+
+import android.content.Context;
 import android.test.AndroidTestCase;
 import android.util.Log;
+
 
 /**
  * Created by Hiep Le on 19/03/2016.
@@ -9,6 +12,11 @@ import android.util.Log;
 public class NonEmptyStringTest extends AndroidTestCase {
 
     private static final String LOG_TAG = "NonEmptyStringTest";
+    private Context mContext;
+
+    public NonEmptyStringTest(Context context) {
+        mContext = context;
+    }
 
     public void test() {
 
@@ -16,7 +24,8 @@ public class NonEmptyStringTest extends AndroidTestCase {
         // You can test this from androidTest -> Run 'All Tests'
         Log.v(LOG_TAG, "Running NonEmptyStringTest test");
         String result = null;
-        JokeAsyncTask asyncTask = new JokeAsyncTask(getContext());
+
+        JokeAsyncTask asyncTask = new JokeAsyncTask(null, mContext);
         asyncTask.execute();
         try {
             result = asyncTask.get();
